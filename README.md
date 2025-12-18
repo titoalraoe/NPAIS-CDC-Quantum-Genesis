@@ -5,7 +5,7 @@ NPAIS-CDC Quantum Genesis
 التاريخ: يونيو 2024
 الحماية: جميع الحقوق محفوظة © 2024 رجب عبد العزيز رجب
 قائمة الاختراعات المسجلة
-الرقم	الاختراع	الموقع في الكود	الوصف
+الرقم	الاختراع	الموقع في الكود	الوصف.
 1	QuantumCell	backend/app/ai_core/ai_core_v9.py	خلية كمومية للتحليل الطيفي
 2	ARIA Core	backend/app/aria/aria_manager.py	نواة التعلم الجدلي التوليدي
 3	PVVE Engine	backend/app/pvve/pvve_engine.py	محرك التحقق الفيزيائي-الأخلاقي
